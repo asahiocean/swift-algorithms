@@ -6,7 +6,7 @@ Algorithms and data structures
   
 # [Stack](https://github.com/AsahiOcean/swift-algorithms/tree/main/Stack)
 
-#### Stack is an abstract data type that is a list of elements organized accord to the LIFO principle ("last in - first out").
+#### Stack – abstract data type that is a list of elements organized accord to the LIFO principle ("last in - first out").
 
 ### There are two main operations on the stack:
 
