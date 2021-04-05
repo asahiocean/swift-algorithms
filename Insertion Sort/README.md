@@ -1,4 +1,4 @@
-# Insertion Sort
+# [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
     
 Goal: Sort an array from low to high (or high to low).
 
