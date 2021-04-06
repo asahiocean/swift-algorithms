@@ -180,8 +180,9 @@ The array has type [T] where T is the placeholder type for the generics. Now ins
 The new parameter isOrderedBefore: (T, T) -> Bool is a function that takes two T objects and returns true if the first object comes before the second, and false if the second object should come before the first. This is exactly what Swift's built-in sort() function does.
 
 The only other change is in the inner loop, which now becomes:
-
-      while y > 0 && isOrderedBefore(temp, a[y - 1]) {
+```swift
+while y > 0 && isOrderedBefore(temp, a[y - 1]) {
+```
 Instead of writing temp < a[y - 1], we call the isOrderedBefore() function. It does the exact same thing, except we can now compare any kind of object, not just numbers.
 
 To test this in a playground, do:
