@@ -1,6 +1,8 @@
 # [Insertion Sort](https://en.wikipedia.org/wiki/Insertion_sort)
-    
-Goal: Sort an array from low to high (or high to low).
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/42/Insertion_sort.gif)
+
+**Goal: Sort an array from low to high (or high to low).**
 
 You are given an array of numbers and need to put them in the right order. The insertion sort algorithm works as follows:
 
