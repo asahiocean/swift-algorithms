@@ -1,4 +1,5 @@
-# swift-algorithms
+<h2>Swift Algorithms<img src="https://tinyurl.com/yyx5jw2x" align="right"></h2>
+
 Algorithms and data structures
 
 <details>
